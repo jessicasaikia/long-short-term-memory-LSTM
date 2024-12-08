@@ -27,8 +27,8 @@ I used Google Colab for this Model:
 5. Run the code.
 6. The output will be displayed and saved as a different CSV file.
 
-You can also VScode or any other platform (this code is just a python a code):
-1. In this case, you will have to make sure you have the necessary libraries installed and dictionaries loaded correctly.
+You can also VScode or any other platform (this code is just a Python code):
+1. In this case, you will have to make sure you have the necessary libraries installed and datasets loaded correctly.
 2. Simply run the program for the output.
 
 ## Additional Notes from me
