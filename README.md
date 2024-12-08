@@ -4,6 +4,8 @@ This repository implements a Long Short Term Memory (LSTM) for performing Parts-
 ## Introduction to Parts-of-Speech (PoS) Tagging
 PoS tagging is the process of identifying and labeling grammatical roles of words in texts, supporting applications like machine translation and sentiment analysis. While different languages may have their own PoS tags, I have used my own custom PoS tags for this model. The Table below defines the custom PoS tags used in this model-
 
+![Table](https://github.com/jessicasaikia/hidden-markov-model-HMM/blob/main/Custom%20PoS%20tags%20Table.png)
+
 ## About Long Short Term Memory (LSTM)
 It is a variant or an improved version of the recurrent neural networks (RNNs) that are ideal in learning and remembering information over long sequences and thus, it can address the problem with traditional RNNs, which have a single hidden state passed through time which makes it difficult for the network to learn long term dependencies. Hence, introduces a memory cell, which is a container that can hold information for an extended period. This memory cell is controlled by three gates, the input gate, the forget gate, and the output gate. The information is retained by the cells while the memory manipulations are done by the gates.
 - Forget gate: It removes the information that is no longer useful in the cell state.
