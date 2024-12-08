@@ -1,5 +1,5 @@
 # Long Short Term Memory (LSTM)
-This repository implements a Long Short Term Memory (LSTM) for performing Parts-of-Speech (POS) Tagging on Assamese-English code-mixed texts.
+This repository implements a Long Short Term Memory (LSTM) model for performing Parts-of-Speech (POS) Tagging on Assamese-English code-mixed texts.
 
 ## Introduction to Parts-of-Speech (PoS) Tagging
 PoS tagging is the process of identifying and labeling grammatical roles of words in texts, supporting applications like machine translation and sentiment analysis. While different languages may have their own PoS tags, I have used my own custom PoS tags for this model. The Table below defines the custom PoS tags used in this model-
@@ -22,7 +22,7 @@ It is a variant or an improved version of the recurrent neural networks (RNNs) t
 
 ## Where should you run this code?
 I used Google Colab for this Model:
-1. Simply create a new notebook (or file) on Google Colab.
+1. Create a new notebook (or file) on Google Colab.
 2. Paste the code.
 3. Upload your CSV dataset file to Google Colab.
 4. Please make sure that you update the "path for the CSV" part of the code based on your CSV file name and file path.
@@ -34,7 +34,7 @@ You can also VScode or any other platform (this code is just a Python code):
 2. Simply run the program for the output.
 
 ## Additional Notes from me
-In case of any help or queries, you can reach out to me in the comments or via my socials. My socials are:
+If you need any help or questions, feel free to reach out to me in the comments or via my socials. My socials are:
 - Discord: jessicasaikia
 - Instagram: jessicasaikiaa
 - LinkedIn: jessicasaikia (www.linkedin.com/in/jessicasaikia-787a771b2)
